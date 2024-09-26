@@ -7,3 +7,7 @@
 
   --Now, click anywhere outside of the Modal or on Close button to close the Modal
   -- ![alt text](2.png)
+
+- Commads to Start the application
+  -- npm install
+  -- npm run dev
